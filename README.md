@@ -5,7 +5,7 @@ An AI-powered debugging tool that detects errors in code, explains the issue, an
 ---
 
 ## 🚀 Live Demo
-👉 https://your-app-link.streamlit.app
+👉 https://abhay-ai-bug-fixer.streamlit.app/
 
 ---
 
